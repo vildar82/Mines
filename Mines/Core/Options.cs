@@ -8,6 +8,6 @@ namespace Mines.Core
 {
    public class Options
    {
-      public int Size = 5000;
+      public int Size = 10;
    }
 }
